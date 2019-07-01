@@ -1,0 +1,7 @@
+com\itheima\dao\ITravellerDao.class
+com\itheima\dao\IOrdersDao.class
+com\itheima\dao\IPermissiondao.class
+com\itheima\dao\IUserDao.class
+com\itheima\dao\ISysLogDao.class
+com\itheima\dao\IrolesDao.class
+com\itheima\dao\IProductDao.class
